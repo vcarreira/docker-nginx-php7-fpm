@@ -4,6 +4,8 @@ This is a [Docker](http://www.docker.com) image for [Nginx](http://nginx.org/) a
 
 An automated build for this repo is available on the [Docker Hub](https://registry.hub.docker.com/u/vcarreira/nginx-php7-fpm/).
 
+This includes php 7.1 and 7.2, linked to docker tags `7.1` and `7.2`.
+
 This image works well when used with the [Docker Laravel](https://github.com/vcarreira/docker-laravel) multi-container solution.
 
 ## Images used by [Docker Laravel](https://github.com/vcarreira/docker-laravel)
